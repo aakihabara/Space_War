@@ -1,0 +1,185 @@
+C:\Game\bin\Debug\sprites\Bg1_Trans.png
+C:\Game\bin\Debug\sprites\Bg2_Trans.png
+C:\Game\bin\Debug\sprites\Bg3_Trans.png
+C:\Game\bin\Debug\sprites\enemy_01.png
+C:\Game\bin\Debug\sprites\enemy_01_fire-spaceship.png
+C:\Game\bin\Debug\sprites\enemy_02.png
+C:\Game\bin\Debug\sprites\enemy_02_fire-spaceship.png
+C:\Game\bin\Debug\sprites\enemy_03.png
+C:\Game\bin\Debug\sprites\enemy_03_fire-spaceship.png
+C:\Game\bin\Debug\sprites\laser.png
+C:\Game\bin\Debug\sprites\meteoroid.png
+C:\Game\bin\Debug\sprites\planet_01.png
+C:\Game\bin\Debug\sprites\planet_02.png
+C:\Game\bin\Debug\sprites\player_fire-spaceship.png
+C:\Game\bin\Debug\sprites\shield.png
+C:\Game\bin\Debug\sprites\space-smoke_01.png
+C:\Game\bin\Debug\sprites\space-smoke_02.png
+C:\Game\bin\Debug\sprites\supply-crate.png
+C:\Game\bin\Debug\Game.exe.config
+C:\Game\bin\Debug\Game.exe
+C:\Game\bin\Debug\Game.pdb
+C:\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Game\obj\Debug\Game.Form1.resources
+C:\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Game\obj\Debug\Game.exe
+C:\Game\obj\Debug\Game.pdb
+C:\Game\bin\Debug\sprites\PlayerFly\player.png
+C:\Game\bin\Debug\sprites\player.png
+C:\Game\bin\Debug\sprites\EnemyFly\enemy_01.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0001.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0002.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0003.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0004.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0005.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0006.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0007.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0008.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0009.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0010.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0011.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0012.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0013.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0014.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0015.png
+C:\Game\bin\Debug\sprites\Explosion\Explosion0016.png
+C:\Game\bin\Debug\sprites\GameOver.png
+C:\Game\bin\Debug\sprites\MenuButtons.png
+F:\ООП\Основная программа\bin\Debug\sprites\GameOver.png
+F:\ООП\Основная программа\bin\Debug\sprites\MenuButtons.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0001.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0002.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0003.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0004.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0005.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0006.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0007.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0008.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0009.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0010.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0011.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0012.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0013.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0014.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0015.png
+F:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0016.png
+F:\ООП\Основная программа\bin\Debug\sprites\Bg1_Trans.png
+F:\ООП\Основная программа\bin\Debug\sprites\Bg2_Trans.png
+F:\ООП\Основная программа\bin\Debug\sprites\Bg3_Trans.png
+F:\ООП\Основная программа\bin\Debug\sprites\EnemyFly\enemy_01.png
+F:\ООП\Основная программа\bin\Debug\sprites\enemy_01.png
+F:\ООП\Основная программа\bin\Debug\sprites\enemy_02.png
+F:\ООП\Основная программа\bin\Debug\sprites\enemy_03.png
+F:\ООП\Основная программа\bin\Debug\sprites\laser.png
+F:\ООП\Основная программа\bin\Debug\sprites\planet_01.png
+F:\ООП\Основная программа\bin\Debug\sprites\planet_02.png
+F:\ООП\Основная программа\bin\Debug\sprites\player.png
+F:\ООП\Основная программа\bin\Debug\sprites\PlayerFly\player.png
+F:\ООП\Основная программа\bin\Debug\sprites\shield.png
+F:\ООП\Основная программа\bin\Debug\sprites\space-smoke_01.png
+F:\ООП\Основная программа\bin\Debug\sprites\space-smoke_02.png
+F:\ООП\Основная программа\bin\Debug\sprites\supply-crate.png
+F:\ООП\Основная программа\bin\Debug\Game.exe.config
+F:\ООП\Основная программа\bin\Debug\Game.exe
+F:\ООП\Основная программа\bin\Debug\Game.pdb
+F:\ООП\Основная программа\obj\Debug\Game.csproj.AssemblyReference.cache
+F:\ООП\Основная программа\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+F:\ООП\Основная программа\obj\Debug\Game.Form1.resources
+F:\ООП\Основная программа\obj\Debug\Game.Properties.Resources.resources
+F:\ООП\Основная программа\obj\Debug\Game.csproj.GenerateResource.cache
+F:\ООП\Основная программа\obj\Debug\Game.csproj.CoreCompileInputs.cache
+F:\ООП\Основная программа\obj\Debug\Game.exe
+F:\ООП\Основная программа\obj\Debug\Game.pdb
+D:\ООП\Основная программа\bin\Debug\sprites\GameOver.png
+D:\ООП\Основная программа\bin\Debug\sprites\MenuButtons.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0001.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0002.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0003.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0004.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0005.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0006.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0007.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0008.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0009.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0010.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0011.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0012.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0013.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0014.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0015.png
+D:\ООП\Основная программа\bin\Debug\sprites\Explosion\Explosion0016.png
+D:\ООП\Основная программа\bin\Debug\sprites\Bg1_Trans.png
+D:\ООП\Основная программа\bin\Debug\sprites\Bg2_Trans.png
+D:\ООП\Основная программа\bin\Debug\sprites\Bg3_Trans.png
+D:\ООП\Основная программа\bin\Debug\sprites\EnemyFly\enemy_01.png
+D:\ООП\Основная программа\bin\Debug\sprites\enemy_01.png
+D:\ООП\Основная программа\bin\Debug\sprites\enemy_02.png
+D:\ООП\Основная программа\bin\Debug\sprites\enemy_03.png
+D:\ООП\Основная программа\bin\Debug\sprites\laser.png
+D:\ООП\Основная программа\bin\Debug\sprites\planet_01.png
+D:\ООП\Основная программа\bin\Debug\sprites\planet_02.png
+D:\ООП\Основная программа\bin\Debug\sprites\player.png
+D:\ООП\Основная программа\bin\Debug\sprites\PlayerFly\player.png
+D:\ООП\Основная программа\bin\Debug\sprites\shield.png
+D:\ООП\Основная программа\bin\Debug\sprites\space-smoke_01.png
+D:\ООП\Основная программа\bin\Debug\sprites\space-smoke_02.png
+D:\ООП\Основная программа\bin\Debug\sprites\supply-crate.png
+D:\ООП\Основная программа\bin\Debug\Game.exe.config
+D:\ООП\Основная программа\bin\Debug\Game.exe
+D:\ООП\Основная программа\bin\Debug\Game.pdb
+D:\ООП\Основная программа\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\ООП\Основная программа\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+D:\ООП\Основная программа\obj\Debug\Game.Form1.resources
+D:\ООП\Основная программа\obj\Debug\Game.Properties.Resources.resources
+D:\ООП\Основная программа\obj\Debug\Game.csproj.GenerateResource.cache
+D:\ООП\Основная программа\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\ООП\Основная программа\obj\Debug\Game.exe
+D:\ООП\Основная программа\obj\Debug\Game.pdb
+F:\ООП\Mini Game\bin\Debug\sprites\GameOver.png
+F:\ООП\Mini Game\bin\Debug\sprites\MenuButtons.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0001.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0002.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0003.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0004.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0005.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0006.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0007.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0008.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0009.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0010.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0011.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0012.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0013.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0014.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0015.png
+F:\ООП\Mini Game\bin\Debug\sprites\Explosion\Explosion0016.png
+F:\ООП\Mini Game\bin\Debug\sprites\Bg1_Trans.png
+F:\ООП\Mini Game\bin\Debug\sprites\Bg2_Trans.png
+F:\ООП\Mini Game\bin\Debug\sprites\Bg3_Trans.png
+F:\ООП\Mini Game\bin\Debug\sprites\EnemyFly\enemy_01.png
+F:\ООП\Mini Game\bin\Debug\sprites\enemy_01.png
+F:\ООП\Mini Game\bin\Debug\sprites\enemy_02.png
+F:\ООП\Mini Game\bin\Debug\sprites\enemy_03.png
+F:\ООП\Mini Game\bin\Debug\sprites\laser.png
+F:\ООП\Mini Game\bin\Debug\sprites\planet_01.png
+F:\ООП\Mini Game\bin\Debug\sprites\planet_02.png
+F:\ООП\Mini Game\bin\Debug\sprites\player.png
+F:\ООП\Mini Game\bin\Debug\sprites\PlayerFly\player.png
+F:\ООП\Mini Game\bin\Debug\sprites\shield.png
+F:\ООП\Mini Game\bin\Debug\sprites\space-smoke_01.png
+F:\ООП\Mini Game\bin\Debug\sprites\space-smoke_02.png
+F:\ООП\Mini Game\bin\Debug\sprites\supply-crate.png
+F:\ООП\Mini Game\bin\Debug\Game.exe.config
+F:\ООП\Mini Game\bin\Debug\Game.exe
+F:\ООП\Mini Game\bin\Debug\Game.pdb
+F:\ООП\Mini Game\obj\Debug\Game.csproj.AssemblyReference.cache
+F:\ООП\Mini Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+F:\ООП\Mini Game\obj\Debug\Game.Form1.resources
+F:\ООП\Mini Game\obj\Debug\Game.Properties.Resources.resources
+F:\ООП\Mini Game\obj\Debug\Game.csproj.GenerateResource.cache
+F:\ООП\Mini Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+F:\ООП\Mini Game\obj\Debug\Game.exe
+F:\ООП\Mini Game\obj\Debug\Game.pdb
